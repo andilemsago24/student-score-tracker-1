@@ -1,5 +1,4 @@
-from students import add_student, view_students, search_student
-from scores import calculate_average, highest_score, lowest_score
+from scores import add_student, view_students, search_student, calculate_average, highest_score, lowest_score
 
 
 while True:
